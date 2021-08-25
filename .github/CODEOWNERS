@@ -1,3 +1,3 @@
-*    @princhcanal
-/frontend/    @princhcanal @citu-cpe/test-frontend
-/backend/     @princhcanal @citu-cpe/test-backend
+* @princhcanal
+/frontend/ @citu-cpe/test-frontend
+/backend/  @citu-cpe/test-backend
