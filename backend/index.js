@@ -6,6 +6,7 @@ const server = http.createServer((req, res) => {
   res.write('<h1>This is a project to test the github workflow</h1>');
   res.write('<p>This is to test rebase and merge</p>');
   res.write('<strong>Rebase</strong>');
+  res.write('<em>Merge</em>');
   res.end();
 });
 
