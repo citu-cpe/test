@@ -1,2 +1,2 @@
-// a test for conventional git commits about WIPs
+// the ideal test for conventional git commits about WIPs
 const customerHypothethicalFeatures = "CreateReadUpdate";
